@@ -2,7 +2,7 @@
 A weboldal célja
 -
 Olyan online felület készítése, ahol felhasználók kamu / replikaruhákat tudnak eladni és vásárolni egyszerűen, biztonságosan.
-
+-
 Fő menüpontok
 
 Főoldal
@@ -16,7 +16,7 @@ Saját profil
 Visszajelzések
 
 Bejelentkezés / Regisztráció
-
+-
 Oldalak és funkciók (röviden)
 Főoldal
 
@@ -25,13 +25,13 @@ Főoldal
 Kiemelt termékek
 
 Rövid bemutató a platformról
-
+-
 Keresés
 
 Kulcsszavas kereső
 
 Szűrők: ár, márka, állapot, méret
-
+-
 Termékoldal
 
 Képek
@@ -41,7 +41,7 @@ Képek
 Eladó profilja
 
 „Írj az eladónak” gomb
-
+-
 Saját profil
 
 A saját hirdetéseim
@@ -49,15 +49,15 @@ A saját hirdetéseim
 Személyes adatok
 
 Kedvencek
-
+-
 Üzenetek
 
 Vásárló–eladó chat
-
+-
 Visszajelzések
 
 Értékelések eladókról és vásárlókról
-
+-
 Bejelentkezés / Regisztráció
 
 Email + jelszó
