@@ -1,5 +1,69 @@
 # Resell-oldal-projectmunka
+A weboldal célja
+-
+Olyan online felület készítése, ahol felhasználók kamu / replikaruhákat tudnak eladni és vásárolni egyszerűen, biztonságosan.
 
+Fő menüpontok
+
+Főoldal
+
+Keresés
+
+Saját profil
+
+Üzenetek
+
+Visszajelzések
+
+Bejelentkezés / Regisztráció
+
+Oldalak és funkciók (röviden)
+Főoldal
+
+Új hirdetések
+
+Kiemelt termékek
+
+Rövid bemutató a platformról
+
+Keresés
+
+Kulcsszavas kereső
+
+Szűrők: ár, márka, állapot, méret
+
+Termékoldal
+
+Képek
+
+Ár és leírás
+
+Eladó profilja
+
+„Írj az eladónak” gomb
+
+Saját profil
+
+A saját hirdetéseim
+
+Személyes adatok
+
+Kedvencek
+
+Üzenetek
+
+Vásárló–eladó chat
+
+Visszajelzések
+
+Értékelések eladókról és vásárlókról
+
+Bejelentkezés / Regisztráció
+
+Email + jelszó
+
+Jelszóemlékeztető
+-
 
 
 Vinted oldal minta:
