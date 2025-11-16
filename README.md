@@ -80,6 +80,7 @@ profil felulet:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c7efed6-9dae-4a56-a4a1-746f6e446fe4" />
 
+Szöveges tartalom: (nincs) Mivel az oldal nem igényel hosszú szöveget csak 1,2 szavak kellenek. nem tudunk konkret szöveget használni hozzá :(
 
 Trello:
 
