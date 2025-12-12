@@ -1,4 +1,7 @@
 # Resell-oldal-projectmunka
+
+https://polczbalazs.github.io/Resell-oldal-projectmunka/weboldal/mainpage.html
+
 A weboldal célja
 -
 Olyan online felület készítése, ahol felhasználók kamu / replikaruhákat tudnak eladni és vásárolni egyszerűen, biztonságosan.
