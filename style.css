@@ -49,3 +49,31 @@ h4 {
     font-size: 16px;
     color: #333;
 }
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.product-card {
+  border: none;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  object-fit: cover;
+  height: 300px;
+}
+
+.price {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #2c2c2c;
+}
